@@ -13,10 +13,10 @@ export default function Home() {
     <main className='flex flex-col min-h-screen p-24'>
       <div className="flex flex-col">
         <h1 className={`${inter.className} text-6xl text-white`}>Hello, my name is Jack</h1>
-        <h2 className={`${inter.className} py-5 text-2xl text-white`}>I'm studying to become a front-end developer.</h2>
+        <h2 className={`${inter.className} py-5 text-2xl text-white`}>I am studying to become a front-end developer.</h2>
       </div>
       <div className="flex py-10">
-        <h4 className={`${inter.className} text-lg text-white`}>Technologies i've been working with:</h4>
+        <h4 className={`${inter.className} text-lg text-white`}>Technologies I have been working with:</h4>
       </div>
       <div className="flex flex-row gap-5">
       
