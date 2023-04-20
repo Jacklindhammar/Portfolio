@@ -1,5 +1,4 @@
 import { Inter } from 'next/font/google'
-import { AiFillLinkedin } from "react-icons/Ai";
 
 const inter = Inter({ subsets: ['latin'] })
 

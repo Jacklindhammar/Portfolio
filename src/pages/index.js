@@ -1,10 +1,10 @@
 import { Inter } from 'next/font/google'
-import { AiFillHtml5 } from "react-icons/Ai";
-import { DiCss3 } from "react-icons/Di";
-import { IoLogoJavascript } from "react-icons/Io";
-import { GrReactjs } from "react-icons/Gr";
-import { AiFillGithub } from "react-icons/Ai";
-import { SiVisualstudiocode } from "react-icons/Si";
+import { AiFillHtml5 } from "react-icons/ai";
+import { DiCss3 } from "react-icons/di";
+import { IoLogoJavascript } from "react-icons/io";
+import { GrReactjs } from "react-icons/gr";
+import { AiFillGithub } from "react-icons/ai";
+import { SiVisualstudiocode } from "react-icons/si";
 
 const inter = Inter({ subsets: ['latin'] })
 
